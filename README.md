@@ -13,7 +13,6 @@ If a long-wave ferrite antenna (from an old radio) with an inductance of about 4
 
 <ul>
 <li>In the /KiCAD folder, you will find a project in the KiCAD 8.0 format;
-<li>You will find additional documentation in the /doc folder;
 <li>In the /3D folder, you will find models of the holder and the entire antenna in STEP, STL formats;
 </ul>
 
