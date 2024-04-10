@@ -13,7 +13,7 @@
 <li>In the /3D folder you will find models of the holder and the entire antenna in STEP and STL formats;
 </ul>
 
-<p>The transmitter of the First Polish Radio reaches a large part of Europe. You can see the coverage map below.
+<p>The Long Wave of the First Polish Radio reaches a large part of Europe. You can see the coverage map below.
 
 <p>
 <img src="PCSK225Range.png " width=600px>
@@ -30,7 +30,7 @@
 <li>W folderze /3D znajdziesz modele uchwytu i całej anteny w formatach STEP, STL;
 </ul>
 
-<p>Nadajnik Programu Pierwszego Polskiego Radia dociera do dużej części Europy. Powyżej możesz zobaczyć mapę zasięgu.
+<p>Sygnał fal długich Programu Pierwszego Polskiego Radia dociera do dużej części Europy. Powyżej możesz zobaczyć mapę zasięgu.
 
 
 
