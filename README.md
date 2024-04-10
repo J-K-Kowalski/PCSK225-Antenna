@@ -5,7 +5,7 @@
 <p>Pozwala ona niezawodnie odbierać ramki czasu UTC(pl) nadawane przez Główny Urząd Miar za pomocą tego nadajnika. Dokumentacja odbiornika jest dostępna na https://github.com/e-CzasPL/TimeReceiver225kHz.
 
 <p>
-<img src="PCSK-225_Antenna.png" width=200px>
+<img src="PCSK-225_Antenna.png" width=500px>
 
 
 <p>Jerzy K. Kowalski<br>Marek Mańkowski
