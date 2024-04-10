@@ -1,27 +1,37 @@
 # PCSK225-Antenna
 
-<p>This simple active antenna is designed to receive the signal from the PCSK-225 transmitter in Solec Kujawski, Poland.
+<p>This simple active antenna is designed to receive the time signal from the PCSK-225 transmitter in Solec Kujawski, Poland.
 
-<p>It allows you to reliably receive UTC(pl) time frames transmitted by the Central Office of Measures using this transmitter. Receiver documentation is available at https://github.com/e-czasPL/TimeReceiver225kHz.
+<p>It allows you to reliably receive UTC(pl) time frames transmitted by the <a href="https://e-czas.gum.gov.pl/e-czas-radio/" target=_blank>Central Office of Measures</a> using this transmitter. Receiver documentation is available at https://github.com/e-czasPL/TimeReceiver225kHz.
 
-<p>
-<img src="PCSK-225_Antenna.png" width=600px>
+The project uses a ferrite antenna from a cheap and popular DCF receiver available, for example, on Aliexpress. Such an antenna has an inductance of approximately 1.5mH. You need to use 333pF capacitors (270pF + 56pF + trimmer 6-25pF) which will allow you to tune the resonant circuit to 225kHz.
+
+The transistor BF545 or MMBFJ108 (SMD) or BF245 (THT) was used as an amplifier - only one should be installed.
+
+If a long-wave ferrite antenna (from an old radio) with an inductance of about 4-6mH is used, the capacitors should be reduced to about 100pF.
+
 
 <ul>
-<li>In the /KiCAD folder you will find a project in the KiCAD 8.0 format;
+<li>In the /KiCAD folder, you will find a project in the KiCAD 8.0 format;
 <li>You will find additional documentation in the /doc folder;
-<li>In the /3D folder you will find models of the holder and the entire antenna in STEP and STL formats;
+<li>In the /3D folder, you will find models of the holder and the entire antenna in STEP, STL formats;
 </ul>
 
-<p>The Long Wave signal of the First Polish Radio reaches a large part of Europe. You can see the coverage map below.
+<p>The long wave signal of the First Polish Radio Program reaches a large part of Europe. You can see the coverage map above.
 
-<p>
+<img src="PCSK-225_Antenna.png" width=600px align=left>
 <img src="PCSK225Range.png " width=600px>
 
 
-<p>Ta prosta aktywna antena jest zaprojektowana do odbioru sygnału z nadajnika PCSK-225 w Solec Kujawski, Polska.
+<p>Ta prosta aktywna antena jest zaprojektowana do odbioru sygnału czasu z nadajnika PCSK-225 w Solec Kujawski, Polska.
 
-<p>Pozwala ona niezawodnie odbierać ramki czasu UTC(pl) nadawane przez Główny Urząd Miar za pomocą tego nadajnika. Dokumentacja odbiornika jest dostępna na https://github.com/e-CzasPL/TimeReceiver225kHz.
+<p>Pozwala ona niezawodnie odbierać ramki czasu UTC(pl) nadawane przez <a href="https://e-czas.gum.gov.pl/e-czas-radio/" target=_blank>Główny Urząd Miar</a> za pomocą tego nadajnika. Dokumentacja odbiornika jest dostępna na https://github.com/e-CzasPL/TimeReceiver225kHz.
+
+W projekcie uzyto anteny ferrytowej od taniego i popularnego odbiornika DCF dostępnego np. na Aliexpress. Taka antena ma indukcyjność ok 1.5mH. Dla tego trzeba użyć kondensatorów 333pF (270pF + 56pF + trymer 6-25pF) co pozwoli zestroic obwód rezonansowy na 225kHz.
+
+Jako wzmacniacz użyto tranzystora BF545 lub MMBFJ108 (SMD) lub BF245 (THT) - należy zamontowac tylko jeden z nich.
+
+Jeżeli zostanie użyta antena ferrytowa na fale długie (ze starego radia) o indukcyjności ok 4-6mH to należy kondensatory zmniejszyć do ok 100pF.
 
 
 <ul>
