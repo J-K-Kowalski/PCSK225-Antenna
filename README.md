@@ -17,7 +17,7 @@ If a long-wave ferrite antenna (from an old radio) with an inductance of about 4
 <li>In the /3D folder, you will find models of the holder and the entire antenna in STEP, STL formats;
 </ul>
 
-<p>The long wave signal of the First Polish Radio Program reaches a large part of Europe. You can see the coverage map above.
+<p>The long wave signal of the First Polish Radio Program reaches a large part of Europe. You can see the coverage map below.
 
 <p>
 <table border=0 cellpadding=0 cellspacing=0 width=100%>
