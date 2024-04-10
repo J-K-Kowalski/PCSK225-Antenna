@@ -19,8 +19,11 @@ If a long-wave ferrite antenna (from an old radio) with an inductance of about 4
 
 <p>The long wave signal of the First Polish Radio Program reaches a large part of Europe. You can see the coverage map above.
 
-<img src="PCSK-225_Antenna.png" width=600px align=left>
-<img src="PCSK225Range.png " width=600px>
+<p>
+<table border=0 cellpadding=0 cellspacing=0 width=100%>
+<tr><td><img src="PCSK-225_Antenna.png" width=500px align=left>
+</td><td><img src="PCSK225Range.png " width=500px></td></tr>
+</table>
 
 
 <p>Ta prosta aktywna antena jest zaprojektowana do odbioru sygnału czasu z nadajnika PCSK-225 w Solec Kujawski, Polska.
