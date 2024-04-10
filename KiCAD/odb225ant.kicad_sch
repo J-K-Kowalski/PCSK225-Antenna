@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "8dda5e15-4066-419f-a4b8-ba7a35fd4d1c")
 	(paper "A4")
+	(title_block
+		(title "PCSK225 Active Antenna")
+		(date "2024-04-10")
+		(rev "1.0")
+		(company "JKK & MM")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_Coaxial"
 			(pin_names
