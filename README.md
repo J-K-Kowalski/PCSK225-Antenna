@@ -13,7 +13,7 @@
 <li>In the /3D folder you will find models of the holder and the entire antenna in STEP and STL formats;
 </ul>
 
-<p>The Long Wave of the First Polish Radio reaches a large part of Europe. You can see the coverage map below.
+<p>The Long Wave signal of the First Polish Radio reaches a large part of Europe. You can see the coverage map below.
 
 <p>
 <img src="PCSK225Range.png " width=600px>
@@ -31,9 +31,6 @@
 </ul>
 
 <p>Sygnał fal długich Programu Pierwszego Polskiego Radia dociera do dużej części Europy. Powyżej możesz zobaczyć mapę zasięgu.
-
-
-
 
 <p>Jerzy K. Kowalski<br>Marek Mańkowski
 
