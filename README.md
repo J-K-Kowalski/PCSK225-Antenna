@@ -39,7 +39,6 @@ Jeżeli zostanie użyta antena ferrytowa na fale długie (ze starego radia) o in
 
 <ul>
 <li>W folderze /KiCAD znajdziesz projekt w formacie KiCAD 8.0;
-<li>W folderze /doc znajdziesz dodatkową dokumentację;
 <li>W folderze /3D znajdziesz modele uchwytu i całej anteny w formatach STEP, STL;
 </ul>
 
