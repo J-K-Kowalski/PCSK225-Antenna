@@ -25,7 +25,7 @@ If a long-wave ferrite antenna (from an old radio) with an inductance of about 4
 
 <p>
 <table border=0 cellpadding=0 cellspacing=0 width=100%>
-<tr><td><img src="PCSK-225_Antenna.png" width=500px align=left>
+<tr><td><img src="PCSK-225_Antenna2.png" width=500px align=left>
 </td><td><img src="PCSK225Range.png " width=500px></td></tr>
 </table>
 
