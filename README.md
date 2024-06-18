@@ -1,5 +1,10 @@
 # PCSK225-Antenna
 
+<ul>
+<li>2024-06-18 - new version of Ferrite Holder</li>
+</ul>
+
+
 <p>This simple active antenna is designed to receive the time signal from the PCSK-225 transmitter in Solec Kujawski, Poland.
 
 <p>It allows you to reliably receive UTC(pl) time frames transmitted by the <a href="https://e-czas.gum.gov.pl/e-czas-radio/" target=_blank>Central Office of Measures</a> using this transmitter. Receiver documentation is available at https://github.com/e-czasPL/TimeReceiver225kHz.
@@ -23,6 +28,11 @@ If a long-wave ferrite antenna (from an old radio) with an inductance of about 4
 <tr><td><img src="PCSK-225_Antenna.png" width=500px align=left>
 </td><td><img src="PCSK225Range.png " width=500px></td></tr>
 </table>
+
+<ul>
+<li>2024-06-18 - Nowa wersja modelu 3D do wydruku uchwytu na pręt ferrytowy</li>
+</ul>
+
 
 
 <p>Ta prosta aktywna antena jest zaprojektowana do odbioru sygnału czasu z nadajnika PCSK-225 w Solec Kujawski, Polska.
