@@ -1,6 +1,7 @@
 # PCSK225-Antenna
 
 <ul>
+<li>2024-10-08 - fixed GND symbol</li>
 <li>2024-06-18 - new version of Ferrite Holder</li>
 </ul>
 
